@@ -1,1 +1,26 @@
-626666
+#include<stdio.h>
+#include<math.h>
+
+int main(){
+int a,b;
+int area;
+
+printf("enter the hight=");
+
+scanf("%d",&a);
+
+printf("enter the width=");
+
+scanf("%d",&b);
+
+area=pow(a,2)+pow(b.2);
+
+printf("the total area is :%d",area);
+
+return 0;
+}
+17
+
+S
+
+18}
